@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "spell-check": "mdspell --report",
+    "spell-check": "mdspell --report --ignore-acronyms --ignore-numbers",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint-staged": "lint-staged"
   },
