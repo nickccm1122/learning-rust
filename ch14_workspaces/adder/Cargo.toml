@@ -1,0 +1,8 @@
+[package]
+name = "adder"
+version = "0.1.0"
+authors = ["Nick Chan <5746214+nickccm1122@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+add-one = { path = "../add-one"}
