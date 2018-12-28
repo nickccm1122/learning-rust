@@ -137,3 +137,5 @@ typings/
 .dynamodb/
 
 .vscode
+
+ch12_minigrep/output.txt
