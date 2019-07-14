@@ -1,5 +1,3 @@
 {
-  "linters": {
-    "*.md": ["yarn run spell-check"]
-  }
+  "*.md": ["yarn run spell-check"]
 }
